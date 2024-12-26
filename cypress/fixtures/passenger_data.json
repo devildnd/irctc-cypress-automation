@@ -3,7 +3,7 @@
   "TRAIN_COACH": "3A",
   "TRAVEL_DATE": "27/10/2024",
   "SOURCE_STATION": "DNR",
-  "BOARDING_STATION": "DDU",
+  "BOARDING_STATION": null,
   "DESTINATION_STATION": "SC",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
@@ -13,13 +13,6 @@
       "NAME": "AASHUTOSH GUPTA",
       "AGE": 24,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
